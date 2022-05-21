@@ -1,4 +1,6 @@
-### Hi there 👋
+###  🛹 🎧
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl3fy0ag6003109l25ujdk9ct/stats?cursusId=21&coalitionId=150" alt="marmoral's 42 stats" /></a>
 
 <!--
 **sirtiffany/sirtiffany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
