@@ -1,6 +1,6 @@
 ###  🛹 🎧
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl3fy0ag6003109l25ujdk9ct/stats?cursusId=21&coalitionId=150" alt="marmoral's 42 stats" /></a> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl3fy0ag6003109l25ujdk9ct/project/2571480" alt="marmoral's 42 Libft Score" /></a>
+<img src="https://badge42.vercel.app/api/v2/cl3fy0ag6003109l25ujdk9ct/stats?cursusId=21&coalitionId=150" alt="marmoral's 42 stats" /></a> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl3fy0ag6003109l25ujdk9ct/project/2571480" alt="marmoral's 42 Libft Score" /></a>
 
 ![nyan](https://user-images.githubusercontent.com/75033448/169656508-1f9fbfd2-2123-469b-9b28-b13523cf1bdb.gif)
 
