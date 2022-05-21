@@ -2,11 +2,10 @@
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl3fy0ag6003109l25ujdk9ct/stats?cursusId=21&coalitionId=150" alt="marmoral's 42 stats" /></a>
 
----
+<!--
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirtiffany)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 **sirtiffany/sirtiffany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
