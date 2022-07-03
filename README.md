@@ -2,7 +2,7 @@
 
 <img src="https://badge42.vercel.app/api/v2/cl3fy0ag6003109l25ujdk9ct/stats?cursusId=21&coalitionId=150" alt="marmoral's 42 stats" /></a>
 <img src="https://user-images.githubusercontent.com/75033448/169656508-1f9fbfd2-2123-469b-9b28-b13523cf1bdb.gif" width="300" height="180"/>
-
+<img src="https://user-images.githubusercontent.com/75033448/177024174-38c43acf-3b2a-44ba-bcc6-d7bb51b6f9a8.gif" width="804" height="600"/>
 <!--
 
 **sirtiffany/sirtiffany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
