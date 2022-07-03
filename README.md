@@ -2,12 +2,17 @@
 
 <img src="https://badge42.vercel.app/api/v2/cl3fy0ag6003109l25ujdk9ct/stats?cursusId=21&coalitionId=150" alt="marmoral's 42 stats" /></a>
 <img src="https://user-images.githubusercontent.com/75033448/169656508-1f9fbfd2-2123-469b-9b28-b13523cf1bdb.gif" width="300" height="180"/>
-<img src="https://user-images.githubusercontent.com/75033448/177024174-38c43acf-3b2a-44ba-bcc6-d7bb51b6f9a8.gif" width="804" height="600"/>
+<img src="https://user-images.githubusercontent.com/75033448/177024174-38c43acf-3b2a-44ba-bcc6-d7bb51b6f9a8.gif" width="600" height="250"/>
+<img src="https://user-images.githubusercontent.com/75033448/177024635-468f9a64-14f7-49ae-a086-3c5c75cb3248.gif" width="300" height="250"/>
+<img src="https://user-images.githubusercontent.com/75033448/177024920-5ac17047-155f-4477-9e28-fd2cef67be9c.gif" width="300" height="250"/>
+<img src="https://user-images.githubusercontent.com/75033448/177024963-749d6453-825f-4edd-a32f-9dca0d1e5c41.gif" width="600" height="250"/>
 <!--
 
 **sirtiffany/sirtiffany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![clairo dance](https://user-images.githubusercontent.com/75033448/177024920-5ac17047-155f-4477-9e28-fd2cef67be9c.gif)
+![happy peep](https://user-images.githubusercontent.com/75033448/177024963-749d6453-825f-4edd-a32f-9dca0d1e5c41.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
