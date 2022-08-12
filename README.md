@@ -4,7 +4,6 @@
 <img src="https://user-images.githubusercontent.com/75033448/169656508-1f9fbfd2-2123-469b-9b28-b13523cf1bdb.gif" width="300" height="180"/>
 <img src="https://user-images.githubusercontent.com/75033448/177024635-468f9a64-14f7-49ae-a086-3c5c75cb3248.gif" width="300" height="250"/>
 <img src="https://user-images.githubusercontent.com/75033448/177024920-5ac17047-155f-4477-9e28-fd2cef67be9c.gif" width="300" height="250"/>
-<img src="https://user-images.githubusercontent.com/75033448/177025078-5f4a9d9c-d7b4-43ed-9486-d46c0d75efa5.jpg" width="370" height="250"/>
 <!--
 
 **sirtiffany/sirtiffany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,7 @@
 <img src="https://user-images.githubusercontent.com/75033448/177025212-f615a2b5-4d73-43ce-aa0b-5201f1259427.jpeg" width="370" height="250"/>
 <img src="https://user-images.githubusercontent.com/75033448/177025162-b643e8e8-1486-4b3d-a3f2-5fbcba80dce7.gif" width="400" height="250"/>
 <img src="https://user-images.githubusercontent.com/75033448/177025158-11a07cf1-a40c-4d6b-905e-729d7f78b5ae.gif" width="400" height="250"/>
+<img src="https://user-images.githubusercontent.com/75033448/177025078-5f4a9d9c-d7b4-43ed-9486-d46c0d75efa5.jpg" width="370" height="250"/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
