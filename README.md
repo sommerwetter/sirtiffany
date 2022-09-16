@@ -1,5 +1,5 @@
 ###  🛹 🎧
-<img src="https://user-images.githubusercontent.com/75033448/177025212-f615a2b5-4d73-43ce-aa0b-5201f1259427.jpeg" width="370" height="250"/>
+<img src="https://user-images.githubusercontent.com/75033448/177025212-f615a2b5-4d73-43ce-aa0b-5201f1259427.jpeg" width="300" height="250"/>
 <img src="https://user-images.githubusercontent.com/75033448/169656508-1f9fbfd2-2123-469b-9b28-b13523cf1bdb.gif" width="300" height="180"/>
 <img src="https://user-images.githubusercontent.com/75033448/177024635-468f9a64-14f7-49ae-a086-3c5c75cb3248.gif" width="300" height="250"/>
 <img src="https://user-images.githubusercontent.com/75033448/177024920-5ac17047-155f-4477-9e28-fd2cef67be9c.gif" width="300" height="250"/>
